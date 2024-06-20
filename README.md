@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Harvey, a graduate software engineer!!
+I'm Harvey, a graduate software engineer!\
 Please bare with, this is a WIP
 
 # Certifications
